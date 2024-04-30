@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é LUcas Matheus
+Meu nome é Lucas Matheus
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
